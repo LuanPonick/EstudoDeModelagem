@@ -3,9 +3,9 @@
 ## Principais informaçoes
 
 - como selecionar vertices atraves do objeto.
-para se realizar isso deve-se ativar o modo Wireframe.E pra fazer isso basta apenas ativar a seguinte opção localizada no canto superior direito
+para se realizar isso deve-se ativar o modo Wireframe.E pra fazer isso basta apenas ativar a seguinte opção localizada no canto superior direito <br>
 ![WireframeAtivar.png](.\WireframeAtivar.png)
-Nesse modo apenas selecione o que deseja. 
+Nesse modo apenas selecione o que deseja.<br> 
 ![WireframeAtivo.png](.\WireframeAtivo.png)
 --- 
 
